@@ -1,2 +1,1 @@
-# handson-ml
-Hands On Machine Learning Repo
+# Hands On Machine Learning Repository
